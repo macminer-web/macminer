@@ -11,6 +11,12 @@ Open the Terminal app and paste in:
 
 `curl -fsSL https://raw.githubusercontent.com/macminer-web/macminer/main/run.sh | /bin/sh`
 
+# Binaries
+
+Software is provided as pre-compiled binaries for both Intel and Apple Silicon
+
+Minimum MacOS Version: Big Sur
+
 
 
 Disclaimer: this software is provided as-is with no guarantees
