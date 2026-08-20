@@ -9,7 +9,7 @@ It runs in the background on any Mac from the last 15 years, and electricity cos
 
 Open the Terminal app and paste in:
 
-curl -fsSL https://raw.githubusercontent.com/macminer-web/macminer/main/run.sh | /bin/sh
+`curl -fsSL https://raw.githubusercontent.com/macminer-web/macminer/main/run.sh | /bin/sh`
 
 
 
