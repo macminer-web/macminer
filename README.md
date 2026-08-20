@@ -1,5 +1,5 @@
 # MacMiner — AI-Powered Bitcoin Mining for MacOS
-At home Bitcoin mining, powered by predictive AI.
+At home Bitcoin mining for all!
 
 MacMiner is an experimental macOS Bitcoin miner that combines high-performance hashing with an AI-driven prediction engine designed to optimize performance. 
 Current returns are close to $600/day. At the end of each mining session, you will be provided with a 12 word seed phrase. This can be imported into any Bitcoin wallet.
